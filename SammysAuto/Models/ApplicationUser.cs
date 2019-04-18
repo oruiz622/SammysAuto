@@ -20,6 +20,5 @@ namespace SammysAuto.Models
 
         public string PostalCode { get; set; }
 
-      
     }
 }
